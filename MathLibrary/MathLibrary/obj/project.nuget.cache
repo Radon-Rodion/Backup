@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HTalurG4OqpWtV7LGVugQ8SnuSwpclruHNZveZIbLuDK/KU05qUe/dCffwwsziPAzyw2RcP4ZDzAeQ5qor0tXQ==",
+  "success": true,
+  "projectFilePath": "D:\\Custom\\MathLibrary\\MathLibrary\\MathLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pavel.Rafeev\\.nuget\\packages\\system.speech\\7.0.0\\system.speech.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\Custom\MathLibrary\MathLibrary\bin\Debug\net7.0\MathLibrary.deps.json
+D:\Custom\MathLibrary\MathLibrary\bin\Debug\net7.0\MathLibrary.dll
+D:\Custom\MathLibrary\MathLibrary\bin\Debug\net7.0\MathLibrary.pdb
+D:\Custom\MathLibrary\MathLibrary\obj\Debug\net7.0\MathLibrary.csproj.AssemblyReference.cache
+D:\Custom\MathLibrary\MathLibrary\obj\Debug\net7.0\MathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Custom\MathLibrary\MathLibrary\obj\Debug\net7.0\MathLibrary.AssemblyInfoInputs.cache
+D:\Custom\MathLibrary\MathLibrary\obj\Debug\net7.0\MathLibrary.AssemblyInfo.cs
+D:\Custom\MathLibrary\MathLibrary\obj\Debug\net7.0\MathLibrary.csproj.CoreCompileInputs.cache
+D:\Custom\MathLibrary\MathLibrary\obj\Debug\net7.0\MathLibrary.dll
+D:\Custom\MathLibrary\MathLibrary\obj\Debug\net7.0\refint\MathLibrary.dll
+D:\Custom\MathLibrary\MathLibrary\obj\Debug\net7.0\MathLibrary.pdb
+D:\Custom\MathLibrary\MathLibrary\obj\Debug\net7.0\ref\MathLibrary.dll
