@@ -1,0 +1,158 @@
+	1st Creature Stack			2nd Creature Stack			3rd Creature Stack		
+Name	Low	High	Type (reference only)	Low	High	Type (reference only)	Low	High	Type (reference only)
+Оррин	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+Валеска	4	7	LightCrossbowman	4	7	LightCrossbowman	4	7	LightCrossbowman
+Эдрик	10	20	Pikeman	2	3	Griffin	2	3	Griffin
+Сильвия	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+Лорд Хаарт	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+Сорша	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+Кристиан	10	20	Pikeman	1	1	Ballista	2	3	Griffin
+Турис	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+Рион	10	20	Pikeman	1	1	FirstAidTent	2	3	Griffin
+Адель	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+Катберт	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+Аделаида	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+Инхам	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+Саня	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+Лоинс	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+Каитлин	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+Мепхала	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+Уфретин	3	5	Dwarf	3	5	Dwarf	3	5	Dwarf
+Енова	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+Роланд	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+Торгрим	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+Ивор	12	24	Centaur	3	6	WoodElf	3	6	WoodElf
+Кланси	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+Киррь	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+Корониус	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+Уланд	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+Эллезар	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+Джем	12	24	Centaur	1	1	FirstAidTent	3	6	WoodElf
+Мальком	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+Мелодиа	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+Алагар	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+Аерис	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+Пигуедрам	3	5	StoneGargoyle	3	5	StoneGargoyle	3	5	StoneGargoyle
+Тан	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+Жосефина	30	40	ApprenticeGremlin	2	2	IronGolem	2	3	IronGolem
+Нелла	30	40	ApprenticeGremlin	4	4	StoneGargoyle	2	3	IronGolem
+Торосар	30	40	ApprenticeGremlin	1	1	Ballista	2	3	IronGolem
+Фафнер	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+Ризза	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+Иона	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+Астрал	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+Халон	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+Серена	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+Даремиф	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+Теодор	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+Солмир	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+Кира	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+Аин	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+Фиона	15	25	Imp	3	4	HellHound	3	4	HellHound
+Рашка	15	25	Imp	4	7	Gog	3	4	HellHound
+Мариус	15	25	Imp	4	7	Gog	3	4	HellHound
+Игнат	15	25	Imp	15	25	Imp	15	25	Imp
+Октавия	15	25	Imp	4	7	Gog	3	4	HellHound
+Калх	4	7	Gog	4	7	Gog	4	7	Gog
+Пир	15	25	Imp	1	1	Ballista	3	4	HellHound
+Нимус	15	25	Imp	4	7	Gog	3	4	HellHound
+Айден	15	25	Imp	4	7	Gog	3	4	HellHound
+Ксирон	15	25	Imp	4	7	Gog	3	4	HellHound
+Аксис	15	25	Imp	4	7	Gog	3	4	HellHound
+Олема	15	25	Imp	4	7	Gog	3	4	HellHound
+Калид	15	25	Imp	4	7	Gog	3	4	HellHound
+Аш	15	25	Imp	4	7	Gog	3	4	HellHound
+Зидар	15	25	Imp	4	7	Gog	3	4	HellHound
+Ксарфакс	15	25	Imp	4	7	Gog	3	4	HellHound
+Стракер	4	6	Zombie	4	6	Zombie	4	6	Zombie
+Вокиал	20	30	Skeleton	4	6	Zombie	4	6	Wight
+Моандор	20	30	Skeleton	4	6	Zombie	4	6	Wight
+Чарна	20	30	Skeleton	4	6	Wight	4	6	Wight
+Тамика	20	30	Skeleton	4	6	Zombie	4	6	Wight
+Исра	20	30	Skeleton	4	6	Zombie	4	6	Wight
+Клавиус	20	30	Skeleton	4	6	Zombie	4	6	Wight
+Галтран	20	30	Skeleton	20	30	Skeleton	20	30	Skeleton
+Септиенна	20	30	Skeleton	4	6	Zombie	4	6	Wight
+Аислин	20	30	Skeleton	4	6	Zombie	4	6	Wight
+Сандро	20	30	Skeleton	4	6	Zombie	4	6	Wight
+Нимбус	20	30	Skeleton	4	6	Zombie	4	6	Wight
+Тант	20	30	Skeleton	4	6	Zombie	4	6	Wight
+Кси	20	30	Skeleton	4	6	Zombie	4	6	Wight
+Видомина	20	30	Skeleton	4	6	Zombie	4	6	Wight
+Нагаш	20	30	Skeleton	4	6	Zombie	4	6	Wight
+Лорелей	4	6	Harpy	4	6	Harpy	4	6	Harpy
+Арлаш	30	40	Troglodyte	1	1	Ballista	3	4	Beholder
+Дас	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+Аджит	30	40	Troglodyte	3	4	Beholder	3	4	Beholder
+Дамакон	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+Гуннар	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+Синка	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+Шакти	30	40	Troglodyte	30	40	Troglodyte	30	40	Troglodyte
+Аламар	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+Жаегар	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+Малекит	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+Жеддит	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+Геон	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+Деемер	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+Сепхинороф	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+Дарксторн	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+Йог	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+Гурниссон	15	25	Goblin	1	1	Ballista	4	6	Orc
+Жабаркас	15	25	Goblin	4	6	Orc	4	6	Orc
+Шива	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+Гретчин	15	25	Goblin	15	25	Goblin	15	25	Goblin
+Креллион	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+Крэг Хэк	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+Тираксор	5	7	GoblinWolfRider	5	7	GoblinWolfRider	5	7	GoblinWolfRider
+Гирд	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+Вей	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+Десса	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+Терек	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+Зубин	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+Гундула	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+Орис	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+Сауруг	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+Брон	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+Дракон	10	20	Gnoll	10	20	Gnoll	10	20	Gnoll
+Вистан	4	7	PrimitiveLizardman	4	7	PrimitiveLizardman	4	7	PrimitiveLizardman
+Тазар	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+Алкин	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+Корбак	10	20	Gnoll	2	4	SerpentFly	2	4	DragonFly
+Гервульф	10	20	Gnoll	1	1	Ballista	2	4	SerpentFly
+Брохильд	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+Мирланда	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+Розик	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+Вой	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+Вердиш	10	20	Gnoll	1	1	FirstAidTent	2	4	SerpentFly
+Мерист	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+Стиг	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+Андра	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+Тива	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+Пасис	15	25	Pixies	3	5	Air Elementals	2	3	Air Elementals
+Тунар	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+Игнисса	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+Лакус	15	25	Pixies	3	5	Water Elementals	1	2	Water Elementals
+Монер	15	25	Pixies	3	5	Air Elementals	2	3	Air Elementals
+Эрдамон	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+Фьюр	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+Кальт	15	25	Pixies	3	5	Water Elementals	1	2	Water Elementals
+Луна	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+Брисса	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+Циэль	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+Лабета	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+Интеус	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+Аэнаин	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+Джелар	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+Гриндан	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+Сэр Мюллих	10	20	Pikeman	4	7	Archer	2	3	Griffin
+Адриэн	10	20	Gnoll	4	7	Lizardman	2	4	Serpent Fly
+Катерина	10	20	Pikeman	4	7	Archer	2	3	Griffin
+Дракон	6	6	Enchanters	3	3	Enchanters	1	1	Enchanters
+Джелу	6	6	Sharpshooters	3	3	Sharpshooters	1	1	Sharpshooters
+Килгор	15	25	Goblins	5	7	Goblin Wolf Rider	4	6	Orc
+Лорд Хаарт	20	30	Skeleton	4	6	Zombie	4	6	Wight
+Мутаре	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+Роланд	10	20	Pikeman	4	7	Archer	2	3	Griffin
+Мутаре Дрэйк	10	20	Pikeman	4	7	Archer	2	3	Griffin
+Борагус	10	20	Pikeman	4	7	Archer	2	3	Griffin
+Ксерон	10	20	Pikeman	4	7	Archer	2	3	Griffin

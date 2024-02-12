@@ -1,0 +1,187 @@
+[HotA CRASH INFO file]
+
+Time: Tue Jan 02 16:03:32 2024
+
+HotA.dll version: 1.7.0
+HotA.dll test version: 0
+
+HotA_Settings.ini version: 1.7.0.0
+Test features disabled
+
+HotA internal map format subversion: 5
+HotA internal savegame format subversion: 6
+HotA internal campaign format subversion: 1
+HD version: 5.4 R73
+
+Exception
+{
+   Module:  mss32.dll
+   Adress:      0x21114D4D
+   Code:        EXCEPTION_ACCESS_VIOLATION
+   Flags:       0x00000000
+   Information: read of address: 0x0000001C
+}
+
+Call stack
+{
+             0x21114D40 called from        0x21105EF8
+             0x21105E70 called from        0x2111D6BC
+             0x2111D690 called from        0x2111D657
+             0x2111D600 called from        0x2110AC41
+             0x2110ABD0 called from        0x2111C6DF
+                      ? called from before 0x77857C6E
+             0x77857C3F called from        0x77857C39
+                      ? called from before 0x00000000
+}
+
+Context
+{
+   EAX: 0x00000000
+   ECX: 0x109EFF18
+   EDX: 0x109EFF14
+   EBX: 0x109EFF14
+   ESP: 0x109EFEC4
+   EBP: 0x109EFEC4
+   ESI: 0x109EFF20
+   EDI: 0x109EFF24
+}
+
+Modules
+{
+
+   \\ main module:
+   0x00400000: h3hota HD.exe  (size: 0x002E7000, entry point: 0x00639C00)
+   
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\
+   0x01270000: BINKW32.DLL  (size: 0x0002B000, entry point: 0x01281645)
+   0x30000000: binkw32new.dll  (size: 0x0006E000, entry point: 0x30006668)
+   0x00400000: h3hota HD.exe  (size: 0x002E7000, entry point: 0x00639C00)
+   0x037E0000: HD_HOTA.dll  (size: 0x011B4000, entry point: 0x03985E17)
+   0x015F0000: HD_MCR.dll  (size: 0x00028000, entry point: 0x015FBF2D)
+   0x01CA0000: HD_SCX2.dll  (size: 0x0001D000, entry point: 0x01CA4E62)
+   0x03410000: HD_TC2.dll  (size: 0x003CE000, entry point: 0x0341E056)
+   0x5F7C0000: HD_UPD.dll  (size: 0x00068000, entry point: 0x5F7C5495)
+   0x5EB10000: HotA.dll  (size: 0x004A1000, entry point: 0x5ECBB21D)
+   0x04EE0000: HotA_Update.dll  (size: 0x0005F000, entry point: 0x04EE33DB)
+   0x01E80000: HW_HOTA.dll  (size: 0x0003F000, entry point: 0x01E9A967)
+   0x01240000: IFC20.dll  (size: 0x00023000, entry point: 0x0124F04E)
+   0x26F00000: MP3DEC.ASI  (size: 0x0002A000, entry point: 0x26F0A805)
+   0x21100000: mss32.dll  (size: 0x0005F000, entry point: 0x2112F2E5)
+   0x5EFC0000: patcher_x86.dll  (size: 0x000BD000, entry point: 0x5EFD2D96)
+   0x01220000: smackw32.dll  (size: 0x0001B000, entry point: 0x0122C0B0)
+   0x10000000: _HD3_.dll  (size: 0x0004E000, entry point: 0x1001CACC)
+}
+
+Command Line
+{
+   "h3hota HD.exe"
+}
+
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion
+{
+   ProductName:    Windows 10 Enterprise
+   CurrentVersion: 6.3
+   BuildLab:       19041.vb_release.191206-1406
+}
+
+GetVersionEx
+{
+   PlatformId  = 2
+   Version:      6.2
+   Build:        9200
+   CSDVersion  = 
+   ProductType = 1
+   SuiteMask   = 256
+}
+
+Some ingame values
+{
+   FullScreen Mode = 1
+   Game Type       = 0
+   Network Game    = 0
+
+             Me ID = 0
+  Active Player ID = 0
+   Active is Human = 1
+          Map Filename = [HotA] Air Supremacy.h3m
+     Last RMG Seed = 0
+}
+
+Files
+{
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\BINKW32.DLL
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\binkw32new.dll
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\h3ccmped.cnt
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\h3ccmped.exe
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\H3CCMPED.HLP
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\h3hota HD.exe
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\h3hota.exe
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\h3hota_cmped.exe
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\h3hota_maped.exe
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\h3maped.cnt
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\h3maped.exe
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\H3MAPED.HLP
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\HD_ES.dll
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\HD_HOTA.dll
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\HD_Launcher.exe
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\HD_LauncherNative.dll
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\HD_MCR.dll
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\HD_SCX2.dll
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\HD_SOD.dll
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\HD_TC2.dll
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\HD_UPD.dll
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\HD_VGL.dll
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\HD_VGL2.dll
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\HD_WOG.dll
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\Heroes3.cnt
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\Heroes3.exe
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\Heroes3.GID
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\HEROES3.HLP
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\HotA.dat
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\HotA.dll
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\HotA_launcher.exe
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\hota_me.dll
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\HotA_Settings.ini
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\HotA_Update.dll
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\HW_HOTA.dll
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\HW_SOD.dll
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\IFC20.dll
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\MP3DEC.ASI
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\mss32.dll
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\nullmss.dll
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\patcher_x86.dll
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\patcher_x86.ini
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\readme.txt
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\RMG Template Editor.exe
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\smackw32.dll
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\unins000.dat
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\unins000.exe
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\_HD3_.dll
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\Герои III - Обучение.pdf
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\Новый текстовый документ.txt
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\Data\
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\Data\H3ab_ahd.snd
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\Data\H3ab_ahd.vid
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\Data\h3ab_bmp.lod
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\Data\H3ab_spr.lod
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\Data\h3bitmap.lod
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\Data\h3sprite.lod
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\Data\hd_crown.p32
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\Data\hd_wrench.p32
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\Data\Heroes3.snd
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\Data\HiScore.dat
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\Data\HotA.lod
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\Data\HotA.snd
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\Data\HotA.vid
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\Data\HotA_ext.lod
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\Data\HotA_lng.lod
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\Data\HotA_lng.snd
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\Data\HotA_l_ext.lod
+   C:\Users\Pavel.Rafeev\Desktop\Герои Меча и Магии III Полное собрание\\Data\VIDEO.VID
+
+}
+
+HKLM\SOFTWARE\New World Computing\Heroes of Might and Magic® III\1.0
+{
+}
+

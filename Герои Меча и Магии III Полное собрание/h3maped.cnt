@@ -1,0 +1,44 @@
+:Base h3maped.hlp
+1 Обзор=overview
+1 Интерфейс редактора карт
+2 Клавиатурные команды=shortcuts
+2 Окно карты=map_window
+2 Миникарта=mini_map
+2 Палитра объектов=object_palette
+2 Меню=toolbar
+2 Строка состояния=statusbar
+2 Опции=HIDD_OPTIONS
+1 Создание карт
+2 Создание новой карты=HIDD_NEW_MAP
+2 Загрузка существующей карты=load_map
+2 Сохранение карты=save_map
+2 Свойства карты=map_specs
+2 Проверить карту=HIDD_MAP_VALIDATION
+2 Прорисовка ландшафта=placing_terrain
+2 Нанесение рек=placing_rivers
+2 Нанесение дорог=placing_roads
+2 Размещение объектов=placing_objects
+2 Перемещение и копирование объектов=moving_objects
+2 Удаление объектов=erasing_objects
+2 Автоматическое размещение препятствий=automatic_obstacle_placement
+2 Свойства объектов
+3 Обзор свойств объектов=HIDD_OBJECT_PROPERTIES
+3 Свойства города=HIDD_TOWN_PROPS
+3 Свойства героя=HIDD_HERO_PROPS
+3 Свойства событий=HIDD_EVENT_PROPS
+3 Свойства монстров=HIDD_MONSTER_PROPS
+3 Свойства артефакта=HIDD_ARTIFACT_PROPS
+3 Свойства Ящика пандоры=HIDD_BLACK_BOX_PROPS
+3 Свойства ресурсов=HIDD_RESOURCE_PROPS
+3 Свойства хижины Предсказателя=HIDD_SEERS_HUT_PROPS
+3 Свойства гарнизона=HIDD_GARRISON_PROPERTIES
+3 Свойства присвоения=HIDD_FLAGGABLE_PROPERTIES
+3 Свойства ученых книжников=HIDD_SCHOLAR_PROPERTIES
+3 Свойства указателя=HIDD_SIGN_PROPERTIES
+3 Свойства святилища=HIDD_SHRINE_PROPERTIES
+3 Свойства брошенного прииска=HIDD_ABANDONED_MINE_PROPS
+3 Свойства Грааля=HIDD_HOLY_GRAIL_PROPS
+3 Свойства сохранения места переходящего героя=HIDD_HERO_PLACEHOLDER_PROPS
+3 Свойства Урочной заставы =HIDD_QUEST_GUARD_PROPS
+3 Свойства случайных жилищ=HIDD_RANDOM_GENERATOR_PROPS
+3 Свойства хижины ведьмы=HIDD_WITCH_HUT_PROPERTIES

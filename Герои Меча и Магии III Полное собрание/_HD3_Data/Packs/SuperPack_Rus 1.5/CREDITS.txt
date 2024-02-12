@@ -1,0 +1,253 @@
+Credits
+"{HD mod:}
+Баринов Александр (aka Баря, Bara, baratorch)
+
+
+
+{Создатель:}
+Jon Van Caneghem
+
+
+
+{Исполнительный продюсер:}
+Mark Caldwell
+
+
+
+{Продюсер:}
+Jeff Blattner
+
+
+
+{Директор:}
+David Mullich
+
+
+{Первый зам. Директора:}
+Christian Vanover
+
+
+{Дизайнеры:}
+Jennifer Bullard
+Gregory Fulton
+Jon Van Caneghem
+
+
+{Ведущие программисты:}
+John Bolton
+David Richey
+
+
+{Программисты:}
+Mark Caldwell
+John Krause
+Jeff Leggett
+George Ruof
+Gus Smedstad
+
+
+{Ведущие художники:}
+Joseph McGuffin
+Phelan Sykes
+
+
+{Художники:}
+George Almond
+Jeff Bigman
+Fernando Castillo
+Rebecca Christel
+Brian DeMetz
+John E. Gibson IV
+Louis Henderson
+Edward Hudson
+Tracy Iwata
+Steve Jasper
+Brian Kemper
+April Lee
+Bonita Long-Hemsath
+Adam McCarthy
+Kurt McKeever
+Nowa Morisaku
+Kenneth Thomson, Jr.
+Tony Rizo
+Bill Stoneham
+Julia Ulano
+Steve Wasaff
+Scott White
+Charles Zilm
+
+
+{Завведующий хозяйством:}
+Jack Russell
+
+
+{Левел дизайнеры:}
+Benjamin Bent
+Dave Botan
+Ryan Den
+Walter Johnson
+Marcus Pregent
+Christian Vanover
+Lisa Whitman
+Mike Wolf
+
+
+{Продюсер музыки:}
+Rob King
+
+
+{Городские темы:}
+Paul Romero
+
+
+{Музыка:}
+Paul Romero
+Rob King
+Steve Baca
+
+
+{Звук:}
+Rob King
+Steve Baca
+Chuck Russom
+
+
+{Голоса:}
+Rob King
+Green Street Studios
+South Pasadena, Ca.
+
+
+{Актеры:}
+Catherine Battistone
+Aric Devone
+Mari Devon
+Richard Epcar
+Danny Fehsenfeld
+Lex Lang
+Wendee Lee
+Laird Macintosh
+Sy Prescott
+Mike Sorich
+Dan Woren
+
+
+{Ведущий тестер:}
+Karl Drown
+
+
+{Тестеры:}
+Jesse Anacleto
+Mary Ellen Babson
+Devin Chapman
+William Choulos
+John Cloud
+Gavan Cook
+Karl Fischer
+Ernie Gallardo
+Benjamin Goldhammer
+Rich Holmes
+Yoshiyuki Maeda
+Lance Page
+Bryce Verdier
+Eric Williamson
+Sean Wyman
+Thomas Zeliff
+
+
+{Особое спасибо:}
+Cyberlore Studios
+Hypnotix
+Equinoxe
+Rad Game Tools
+Sonic Foundry
+Sound Forge
+Soundscape
+Riki Corredera
+John Machin
+Scott McDaniel
+Michele Mitchel
+John Slowsky
+
+
+{Веб-мастер:}
+Joshua “Guthwulf” Milligan
+
+
+{Веб-художник:}
+Aaron Castro
+
+
+{Веб-программист:}
+Robert Belknap
+Peter Hillier
+
+
+{Заходите к нам:}
+www.3do.com
+
+
+
+{РОССИЙСКАЯ СТОРОНА}
+
+{Директор :}
+
+Игорь Устинов (Бука)
+
+Виталий Шутов (MiST land)
+
+{Лицензирование: }
+Владимир Миняев (Бука)
+
+
+{Продюсер проекта: } 
+Виталий Шутов (MiST land)
+
+
+{Программисты: }
+Александр Гаранин (MiST land)
+Александр Сорокин (MiST land)
+
+
+{Художник}
+Маргарита Гурьева (MiST land)
+
+
+{Переводчики: }
+Александр Климов (MiST land)
+Сергей Осипов (MiST land)
+
+
+{Редактор:}
+Виталий Шутов (MiST land)
+
+
+{Звук: }
+Студия “Крыша”
+
+
+{Отдельные благодарности}
+
+От компании MiST land:
+Игорю Устинову
+Александру Михайлову
+Владимиру Меняеву
+Антону Сосенко
+Андрею Фомину
+""Temach""
+""MadKoT""
+Славе Алпатову
+а также всем бета-тестерам
+
+От компании Бука:
+Татьяна Устинова
+Марина Белобородова
+ИММА – ПРЕСС 
+
+
+{Милости просим к нам на: }
+www.buka.com
+(Сайт компании Бука)
+
+"
+"Copyright 1999, The 3DO Company. All Rights Reserved. Heroes of Might and Magic, New World Computing, 3DO, and their respective logos are trademarks, and/or service marks of The 3DO Company in the U.S. and other Countries. All other trademarks belong to their respective owners. New World Computing is a division of The 3DO Company. Все права на распространение на территории России и Украины принадлежат компании Бука. Защита авторских осуществляется компанией ""Русский Щит""."

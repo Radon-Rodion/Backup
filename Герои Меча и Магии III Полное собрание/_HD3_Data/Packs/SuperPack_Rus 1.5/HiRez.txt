@@ -1,0 +1,26 @@
+	hirez.txt 3.0  beta 12
+
+	rus
+
+<SelectCampaign> 	= "Выберите Кампанию"
+<WantDigAsk> 		= "Вы действительно хотите потратить целый день на раскопки?"
+<MovementPoints1> 	= "%s%s{Единиц перемещения:}   %d {/} %d"
+<MovementPoints2> 	= "%s  {(Единиц перемещения:}  %d{ / }%d{)}"
+<InviteHero> 		= "Пригласить Героя"
+<Template> 		= "Шаблон:"
+<DefaultTemplateName> 	= "{Из папки \Data} (по умолчанию)"
+<MoreOptions> 		= "Ещё опции..."
+<RoadType> 		= "Тип дорог"
+<FixGameplayBugs> 	= "Исправить игровые баги"
+<WaitNetOk> 		= "Старт таймера после 'Ок'"
+<ProtectedSaves> 	= "Защищённые сохранения"
+<ProtectionPassword> 	= "Ваш пароль для защиты сохранений:"
+<WaitPlayersPassword> 	= "Не все игроки ввели пароли. Подождите и попробуйте снова."
+<MapIsProtected> 	= "Карта защищена."
+<SaveIsProtected> 	= "Сохранение защищено."
+<WrongPassword>		= "Невозможно начать игру. Один или более паролей не верны."
+<EnterPasswords>	= "Введите пароли:"
+<SoD_Rules> 		= "%s не использует HoMM3 HD %s + Tournament Extensions. Игровые расширения Tournament отключены."
+<WantToMenuAsk> 	= "Вы действительно хотите вернуться в главное меню?"
+<TeamsSetup> 		= "{настроить...}"
+<EverydaySave> 		= "Подневные сохранения"
